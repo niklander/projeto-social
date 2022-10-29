@@ -58,5 +58,5 @@ section#sociais img:hover{
     transform: translate(-3px, -3px);
 
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.605);
-    transition: transform .3s ,border .8s;
+    transition: transform .3s ,border 1s;
 }
